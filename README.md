@@ -1,7 +1,7 @@
 # Welcome to motion hub
 motion hub includes game like Masters of Cash, Tapping Buttons 2, Ninja Legends and more coming soon
 
-# Downloads:
+# Downloads/installation:
 [Releases](https://github.com/KDanHudds/Motion-Hub/releases)
 
 # Notices
