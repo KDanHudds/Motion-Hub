@@ -1,1 +1,1 @@
-loadstring(https://raw.githubusercontent.com/KDanHudds/Motion-Hub/main/Motion%20Hub%20Script)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KDanHudds/Motion-Hub/main/Raw%20Motion%20Hub%20Script", true))()
